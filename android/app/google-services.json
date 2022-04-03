@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018033370321",
+    "project_id": "opp-online-placement-portal",
+    "storage_bucket": "opp-online-placement-portal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018033370321:android:249500a771d4b0586c01f0",
+        "android_client_info": {
+          "package_name": "com.example.opp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018033370321-jt8shg5lj8p1ucftmf03b36jq8kt6r9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVXsIwJjlB4bnxdA_x93oJUkWZfoklLCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018033370321-jt8shg5lj8p1ucftmf03b36jq8kt6r9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
